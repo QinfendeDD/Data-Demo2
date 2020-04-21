@@ -1,7 +1,7 @@
 import Pandas学习 as pd
 import numpy as np
 import matplotlib.pyplot as plt
-from Pandas学习 import DataFrame, Series
+from pandas import DataFrame, Series
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 

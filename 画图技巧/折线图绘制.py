@@ -1,4 +1,4 @@
-import Pandas学习 as pd
+import pandas as pd
 import matplotlib.pyplot as plt
 
 

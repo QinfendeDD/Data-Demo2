@@ -1,4 +1,4 @@
-import Pandas学习 as pd
+import pandas as pd
 from sklearn.cluster import KMeans
 import numpy as np
 import matplotlib.pyplot as plt

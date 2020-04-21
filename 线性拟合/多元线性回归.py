@@ -1,4 +1,4 @@
-import Pandas学习 as pd
+import pandas as pd
 import seaborn as sns
 from sklearn.linear_model import LinearRegression
 import matplotlib.pyplot as plt

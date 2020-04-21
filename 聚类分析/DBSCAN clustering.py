@@ -1,6 +1,6 @@
 # 对于不规整数据集
 from sklearn.cluster import DBSCAN
-import Pandas学习 as pd
+import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn import metrics
 import numpy as np
